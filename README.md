@@ -1,5 +1,5 @@
 # Welcome
-Hello, my name is Zac. I recently graduated from Turing School of Software & Design and formerly employed with State Space Labs, Inc. I am heavily motivated by self improvement and competition, and driven to push myself and my development skills to the highest level possible. My former career paths have taught me the value of hard work and ambition, and I look forward to improving my skills and knowledge in the software development field.
+Hello, my name is Zac. I recently graduated from Turing School of Software & Design and formerly employed with State Space Labs, Inc. I am heavily motivated by self improvement and competition, and driven to push myself and my development skills to the highest level possible.
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zac-walters-67951b250/)
 ## Languages/Frameworks
