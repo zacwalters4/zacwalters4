@@ -1,5 +1,5 @@
 # Welcome
-Hello, my name is Zac. I recently graduated from Turing School of Software & Design and currently employed with NovaEdge Technology. I am heavily motivated by self improvement and competition, and driven to push myself and my development skills to the highest level possible.
+Hello, my name is Zac. I recently graduated from Turing School of Software & Design and currently employed with NovaEdge Technology as a Front End Software Engineer Intern. I am heavily motivated by self improvement and competition, and driven to push myself and my development skills to the highest level possible.
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zac-walters-67951b250/)
 ## Languages/Frameworks
